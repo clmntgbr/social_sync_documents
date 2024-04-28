@@ -1,71 +1,50 @@
-[Conditions de Service / Terms of Service](TermsofService.md)
+[Politique de confidentialité / Privacy Policy](PrivacyPage.md)
 
-## Politique de confidentialité
+## Conditions de Service
 
-Cette Politique de confidentialité décrit la manière dont nous recueillons, utilisons et partageons les informations des utilisateurs de notre application qui permet la connexion aux réseaux sociaux et la publication de posts.
+Merci d'utiliser notre application ! En utilisant notre application, vous acceptez de vous conformer aux présentes conditions de service. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser notre application.
 
-### 1. Informations collectées
+### 1. Utilisation de l'application : 
+Vous pouvez utiliser notre application à des fins personnelles ou commerciales, dans le respect des lois applicables et des présentes conditions de service.
 
-Nous recueillons les informations suivantes lorsque vous utilisez notre application :
+### 2. Contenu :
+Vous êtes responsable du contenu que vous publiez ou partagez via notre application. Vous garantissez que vous avez le droit de publier ce contenu et que cela ne viole pas les droits de tiers.
 
-Informations d'identification des réseaux sociaux : Lorsque vous vous connectez à un réseau social via notre application, nous pouvons collecter votre identifiant d'utilisateur, votre nom d'utilisateur et d'autres informations de profil associées à votre compte sur le réseau social.
-Autorisations d'accès : Pour utiliser certaines fonctionnalités de notre application, nous pouvons demander des autorisations d'accès à vos comptes de réseaux sociaux, telles que la publication de posts ou l'accès à vos amis.
+### 3. Propriété intellectuelle : 
+Tous les droits de propriété intellectuelle relatifs à notre application appartiennent à notre société ou à nos concédants de licence. Vous ne pouvez pas copier, modifier, distribuer ou vendre le contenu de notre application sans notre autorisation.
 
-### 2. Utilisation des informations
+### 4. Confidentialité : 
+Nous respectons votre vie privée et nous engageons à protéger vos informations personnelles. Veuillez consulter notre politique de confidentialité pour en savoir plus sur la manière dont nous collectons, utilisons et partageons vos données.
 
-Nous utilisons les informations collectées dans le but suivant :
+### 5. Limitation de responsabilité : 
+Nous ne sommes pas responsables des dommages indirects, accessoires, spéciaux ou consécutifs découlant de l'utilisation de notre application.
 
-Fournir et personnaliser nos services : Nous utilisons vos informations pour vous permettre de vous connecter aux réseaux sociaux via notre application, et pour vous permettre de publier des posts et d'interagir avec vos réseaux sociaux.
-Améliorer notre application : Nous utilisons les données agrégées et anonymisées pour analyser l'utilisation de notre application, identifier les tendances et améliorer l'expérience utilisateur.
+### 6. Modifications des conditions : 
+Nous nous réservons le droit de modifier ces conditions de service à tout moment. Les modifications prendront effet dès leur publication sur cette page.
 
-### 3. Partage des informations
+En utilisant notre application, vous acceptez ces conditions de service. Si vous avez des questions ou des préoccupations, veuillez nous contacter à **clement.goubier@gmail.com**.
 
-Nous ne partageons pas vos informations personnelles avec des tiers, sauf dans les cas suivants :
 
-Avec votre consentement : Nous pouvons partager vos informations avec des tiers si vous nous donnez votre consentement explicite.
-Conformité à la loi : Nous pouvons divulguer vos informations si nous sommes légalement tenus de le faire pour nous conformer à une obligation légale, protéger nos droits légaux ou répondre à une demande gouvernementale.
+## Terms of Service
 
-### 4. Sécurité des données
+Thank you for using our application! By using our application, you agree to comply with these terms of service. If you do not agree to these terms, please do not use our application.
 
-Nous prenons des mesures raisonnables pour protéger vos informations contre tout accès, utilisation ou divulgation non autorisé. Cependant, aucune méthode de transmission sur Internet ou de stockage électronique n'est totalement sécurisée.
+### 1. Use of the application: 
+You may use our application for personal or commercial purposes, in compliance with applicable laws and these terms of service.
 
-### 5. Modifications de la politique de confidentialité
+### 2. Content:
+You are responsible for the content you post or share through our application. You warrant that you have the right to post such content and that it does not infringe upon the rights of third parties.
 
-Nous nous réservons le droit de modifier cette Politique de confidentialité à tout moment. Les modifications prendront effet dès leur publication sur cette page.
+### 3. Intellectual property: 
+All intellectual property rights related to our application belong to our company or our licensors. You may not copy, modify, distribute, or sell the content of our application without our permission.
 
-En utilisant notre application, vous consentez à cette Politique de confidentialité. Si vous avez des questions ou des préoccupations concernant notre utilisation de vos informations, veuillez nous contacter à **clement.goubier@gmail.com**.
+### 4. Privacy:
+We respect your privacy and are committed to protecting your personal information. Please see our privacy policy for more information on how we collect, use, and share your data.
 
-## Privacy Policy
+### 5. Limitation of liability:
+We are not liable for any indirect, incidental, special, or consequential damages arising from the use of our application.
 
-This Privacy Policy describes how we collect, use, and share information from users of our application that enables social media login and posting.
+### 6. Changes to the terms:
+We reserve the right to modify these terms of service at any time. Changes will take effect upon posting on this page.
 
-### 1. Information Collected
-
-We collect the following information when you use our application:
-
-Social media identification information: When you connect to a social network via our application, we may collect your user ID, username, and other profile information associated with your social media account.
-Access permissions: To use certain features of our application, we may request access permissions to your social media accounts, such as posting posts or accessing your friends.
-
-### 2. Use of Information
-
-We use the collected information for the following purposes:
-
-Provide and customize our services: We use your information to allow you to connect to social networks via our application, and to enable you to post and interact with your social networks.
-Improve our application: We use aggregated and anonymized data to analyze the usage of our application, identify trends, and enhance the user experience.
-
-### 3. Sharing of Information
-
-We do not share your personal information with third parties, except in the following cases:
-
-With your consent: We may share your information with third parties if you give us explicit consent.
-Legal compliance: We may disclose your information if we are legally required to do so to comply with a legal obligation, protect our legal rights, or respond to a government request.
-
-### 4. Data Security
-
-We take reasonable measures to protect your information from unauthorized access, use, or disclosure. However, no method of transmission over the Internet or electronic storage is completely secure.
-
-### 5. Changes to the Privacy Policy
-
-We reserve the right to modify this Privacy Policy at any time. Changes will take effect upon posting on this page.
-
-By using our application, you consent to this Privacy Policy. If you have any questions or concerns about our use of your information, please contact us at **clement.goubier@gmail.com**.
+By using our application, you agree to these terms of service. If you have any questions or concerns, please contact us at **clement.goubier@gmail.com**.
